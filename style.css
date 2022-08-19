@@ -98,14 +98,14 @@
 }
 .container1 h2 {
     font-size: 1.3em;
-    font-weight: lighter;
+    font-weight: bold;
     color: black;
     text-transform: capitalize;
     margin-top: 15px;
 }
 .container1 p {
     font-size: 0.85em;
-    color: black;
+    color: hsl(210, 10%, 33%);
     margin-top: 15px;
     line-height: 25px;
 }
@@ -140,12 +140,12 @@
 }
 .container2 h1 {
     font-size: 1.5em;
-    color: black;
+    color: hsl(210, 10%, 33%);
     font-weight: 500;
 }
 .container2 p {
     font-size: 0.9em;
-    color: black;
+    color: hsl(210, 10%, 33%);
     margin-top: 15px;
 }
 .container2 input {
@@ -186,13 +186,13 @@
 .container3 h2 {
     font-size: 1.3em;
     font-weight: lighter;
-    color: black;
+    color: hsl(210, 10%, 33%);
     text-transform: capitalize;
     margin-top: 15px;
 }
 .container3 p {
     font-size: 0.85em;
-    color: black;
+    color: hsl(210, 10%, 33%);
     margin-top: 15px;
     line-height: 25px;
 }
