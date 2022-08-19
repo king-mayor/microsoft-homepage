@@ -185,7 +185,7 @@
 }
 .container3 h2 {
     font-size: 1.3em;
-    font-weight: lighter;
+    font-weight: bolder;
     color: hsl(210, 10%, 33%);
     text-transform: capitalize;
     margin-top: 15px;
